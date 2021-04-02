@@ -31,7 +31,7 @@ _24.09.2018 - 24.05.2019_ | Bucharest, Romania
 ## Education
 
 #### Bachelor of Engineering in Computer Science and Information Technology
-**University Politehnica of Bucharest**
+**University Politehnica of Bucharest**  
 _03.10.2016 - 05.06.2020_ | Bucharest, Romania
 
 **Thesis** : Intelligent Linguistic System for the Grammar of the Romanian Language
@@ -39,5 +39,5 @@ _03.10.2016 - 05.06.2020_ | Bucharest, Romania
 ---
 
 #### Diploma of Baccalaureate in Mathematics-Informatics, Intensive Informatics
-**National College "Traian Doda"**
+**National College "Traian Doda"**  
 _17.09.2012 - 03.06.2016_ | Caransebeș, Romania
