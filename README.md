@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Java/C++ Software Developer
+**Thales**  
+_05.04.2021 - 05.10.2021_ | Bucharest, Romania
+
+---
+
 #### Teaching Assistant
 **Faculty of Automatic Control and Computer Science, UPB**  
 _24.09.2018 - 28.02.2021_ | Bucharest, Romania
