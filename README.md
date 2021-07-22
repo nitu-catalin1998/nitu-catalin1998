@@ -6,7 +6,7 @@
 
 ## About
 
-Inquisitive Computer Scientist and Engineer, having experience in academia and industry, both as a Teaching Assistant and as a Software Engineer Intern. Seek to enhance understanding of Machine Learning and Data Science as a Master's student or Developer. Recently graduated from college in the top 5% with perfect scores in Programming, broad knowledge of Mathematics, and a solid foundation regarding Machine Learning and Artificial Intelligence.
+Inquisitive Computer Scientist and Engineer, having experience in academia and industry, both as a Teaching Assistant and as a Software Engineer Intern. Seek to enhance understanding of Machine Learning and Data Science as a Master's student at EPFL university. Recently graduated from college in the top 5% with perfect scores in Programming, broad knowledge of Mathematics, and a solid foundation regarding Machine Learning and Artificial Intelligence.
 
 ## Experience
 
