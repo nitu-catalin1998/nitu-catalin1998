@@ -12,33 +12,39 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 #### Java/C++ Software Developer
 **Thales**  
-_05.04.2021 - 05.10.2021_ | Bucharest, Romania
+_05.04.2021 - 05.10.2021_ | Bucharest, Romania 🇷🇴
 
 ---
 
 #### Teaching Assistant
 **Faculty of Automatic Control and Computer Science, UPB**  
-_24.09.2018 - 28.02.2021_ | Bucharest, Romania
+_24.09.2018 - 28.02.2021_ | Bucharest, Romania 🇷🇴
 
 ---
 
 #### iOS Mobile Software Engineer Intern
 **Fitbit**  
-_01.07.2019 - 20.09.2019_ | Bucharest, Romania
+_01.07.2019 - 20.09.2019_ | Bucharest, Romania 🇷🇴
 
 ---
 
 #### Student Teacher
 **National College of Informatics "Tudor Vianu"**  
-_24.09.2018 - 24.05.2019_ | Bucharest, Romania
+_24.09.2018 - 24.05.2019_ | Bucharest, Romania 🇷🇴
 
 ---
 
 ## Education
 
+#### Master of Science in Data Science
+**Federal Institute of Technology in Lausanne**  
+_15.09.2021 - Ongoing_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Bachelor of Engineering in Computer Science and Information Technology
 **University Politehnica of Bucharest**  
-_03.10.2016 - 05.06.2020_ | Bucharest, Romania
+_03.10.2016 - 05.06.2020_ | Bucharest, Romania 🇷🇴
 
 **Thesis** : Intelligent Linguistic System for the Grammar of the Romanian Language
 
@@ -46,4 +52,4 @@ _03.10.2016 - 05.06.2020_ | Bucharest, Romania
 
 #### Diploma of Baccalaureate in Mathematics-Informatics, Intensive Informatics
 **National College "Traian Doda"**  
-_17.09.2012 - 03.06.2016_ | Caransebeș, Romania
+_17.09.2012 - 03.06.2016_ | Caransebeș, Romania 🇷🇴
