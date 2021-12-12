@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Student/Auxiliary
+**Machine Learning and Optimization Laboratory, EPFL**  
+_01.11.2021 - Ongoing_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Java/C++ Software Developer
 **Thales**  
 _05.04.2021 - 05.10.2021_ | Bucharest, Romania 🇷🇴
