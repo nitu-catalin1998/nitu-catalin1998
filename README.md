@@ -12,7 +12,7 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 #### Student/Auxiliary
 **Machine Learning and Optimization Laboratory, EPFL IC**  
-_01.11.2021 - Ongoing_ | Lausanne, Switzerland 🇨🇭
+_01.11.2021 - 23.12.2021_ | Lausanne, Switzerland 🇨🇭
 
 ---
 
