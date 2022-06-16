@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Data Science Intern | Machine Learning Internship
+**CrowdStrike**  
+_04.07.2022 - 16.09.2022_ | Bucharest, Romania 🇷🇴
+
+---
+
 #### Student/Auxiliary
 **Machine Learning and Optimization Laboratory, EPFL IC**  
 _01.11.2021 - 23.12.2021_ | Lausanne, Switzerland 🇨🇭
@@ -18,7 +24,7 @@ _01.11.2021 - 23.12.2021_ | Lausanne, Switzerland 🇨🇭
 
 #### Java/C++ Software Developer
 **Thales**  
-_05.04.2021 - 05.10.2021_ | Bucharest, Romania 🇷🇴
+_05.04.2021 - 04.10.2021_ | Bucharest, Romania 🇷🇴
 
 ---
 
