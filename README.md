@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Project Student
+**Swiss Plasma Center, EPFL SB**  
+_20.09.2022 - 06.01.2023_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Data Science Intern | Machine Learning Internship
 **CrowdStrike**  
 _04.07.2022 - 16.09.2022_ | Bucharest, Romania 🇷🇴
