@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Student Assistant
+**School of Computer and Communication Sciences, EPFL IC**  
+_20.02.2023 - 30.06.2023_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Project Student
 **Swiss Plasma Center, EPFL SB**  
 _20.09.2022 - 06.01.2023_ | Lausanne, Switzerland 🇨🇭
