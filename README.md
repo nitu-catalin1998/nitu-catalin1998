@@ -1,4 +1,4 @@
-# Ioan-Florin-Cătălin Nițu
+# Ioan Florin Cătălin Nițu
 
 > "Simplicity is prerequisite for reliability."
 > 
