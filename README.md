@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Master Project Intern
+**Swisscom**  
+_18.09.2023 - 15.03.2024_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Student Assistant
 **School of Computer and Communication Sciences, EPFL IC**  
 _20.02.2023 - 30.06.2023_ | Lausanne, Switzerland 🇨🇭
@@ -62,7 +68,9 @@ _24.09.2018 - 24.05.2019_ | Bucharest, Romania 🇷🇴
 
 #### Master of Science in Data Science
 **Federal Institute of Technology in Lausanne**  
-_15.09.2021 - Ongoing_ | Lausanne, Switzerland 🇨🇭
+_15.09.2021 - 26.04.2024_ | Lausanne, Switzerland 🇨🇭
+
+[//]: <> **Thesis**: Knowledge Graph Abstraction Layers
 
 ---
 
