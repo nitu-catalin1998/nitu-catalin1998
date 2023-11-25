@@ -70,7 +70,7 @@ _24.09.2018 - 24.05.2019_ | Bucharest, Romania 🇷🇴
 **Federal Institute of Technology in Lausanne**  
 _15.09.2021 - 26.04.2024_ | Lausanne, Switzerland 🇨🇭
 
-[//]: <> **Thesis**: Knowledge Graph Abstraction Layers
+**Thesis**: Knowledge Graph Abstraction Layers
 
 ---
 
