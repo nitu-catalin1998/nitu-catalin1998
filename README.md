@@ -12,7 +12,7 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 #### Master Project Student
 **Distributed Information Systems Laboratory, EPFL IC**  
-_03.06.2024 - 05.10.2024_ | Lausanne, Switzerland 🇨🇭
+_03.06.2024 - 04.10.2024_ | Lausanne, Switzerland 🇨🇭
 
 ---
 
