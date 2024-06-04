@@ -29,7 +29,7 @@ _20.02.2023 - 30.06.2023_ | Lausanne, Switzerland 🇨🇭
 ---
 
 #### Project Student
-**Swiss Plasma Center, EPFL SB**  
+**Swiss Plasma Center - Theory, EPFL SB**  
 _19.09.2022 - 06.01.2023_ | Lausanne, Switzerland 🇨🇭
 
 ---
