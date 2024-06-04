@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Master Project Student
+**Distributed Information Systems Laboratory, EPFL IC**  
+_03.06.2024 - 05.10.2024_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Master Project Intern
 **Swisscom**  
 _18.09.2023 - 15.03.2024_ | Lausanne, Switzerland 🇨🇭
@@ -24,7 +30,7 @@ _20.02.2023 - 30.06.2023_ | Lausanne, Switzerland 🇨🇭
 
 #### Project Student
 **Swiss Plasma Center, EPFL SB**  
-_20.09.2022 - 06.01.2023_ | Lausanne, Switzerland 🇨🇭
+_19.09.2022 - 06.01.2023_ | Lausanne, Switzerland 🇨🇭
 
 ---
 
@@ -68,9 +74,9 @@ _24.09.2018 - 24.05.2019_ | Bucharest, Romania 🇷🇴
 
 #### Master of Science in Data Science
 **Federal Institute of Technology in Lausanne**  
-_15.09.2021 - 26.04.2024_ | Lausanne, Switzerland 🇨🇭
+_15.09.2021 - 31.08.2024_ | Lausanne, Switzerland 🇨🇭
 
-[//]: <> (**Thesis**: Knowledge Graph Abstraction Layers)
+[//]: <> (**Thesis**: Position extraction of parties involved in contemporary conflicts)
 
 ---
 
