@@ -72,9 +72,9 @@ _24.09.2018 - 24.05.2019_ | Bucharest, Romania 🇷🇴
 
 ## Education
 
-#### Master of Science in Data Science
+#### Master Cycle in Data Science
 **Federal Institute of Technology in Lausanne**  
-_15.09.2021 - 20.12.2024_ | Lausanne, Switzerland 🇨🇭
+_15.09.2021 - 12.11.2024_ | Lausanne, Switzerland 🇨🇭
 
 [//]: <> (**Thesis**: Position Extraction of Parties Involved in Contemporary Conflicts)
 
