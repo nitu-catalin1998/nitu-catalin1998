@@ -10,6 +10,12 @@ Inquisitive Computer Scientist and Engineer, having experience in academia and i
 
 ## Experience
 
+#### Innovation Intern
+**ONWARD Medical**  
+_17.02.2025 - 15.08.2025_ | Lausanne, Switzerland 🇨🇭
+
+---
+
 #### Master Project Student
 **Distributed Information Systems Laboratory, EPFL IC**  
 _03.06.2024 - 08.11.2024_ | Lausanne, Switzerland 🇨🇭
